@@ -1,10 +1,10 @@
 DAX
 
-
 allselected-- clear the visual filter but if the filter is applied from out side means it will affect
 
 allexcept-- it will remove the filter but except 1 column applied in the measure
 
 earlier-- outer row= currentrow,inner row = filter scan the whole table after scanning the filter have some same rows
               like customer A=A then it will add the value  for that customer
+
 
